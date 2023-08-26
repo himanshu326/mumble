@@ -1,6 +1,3 @@
-# Mumble2
-A real time messaging & video calling. Youtube tutorial will be upload in the comming days.
-
 
 # Installation
 * 1 - clone repo 
